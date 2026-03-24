@@ -43,7 +43,7 @@ python main.py
 
 | Metric | Value |
 |---|---|
-| Strategy Return | ~18% |
+| Strategy Return | 69.08% |
 | Market Return | ~180% |
 | Sharpe Ratio | ~0.45 |
 | Max Drawdown | ~-18% |
